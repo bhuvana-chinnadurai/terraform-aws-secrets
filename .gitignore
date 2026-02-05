@@ -7,3 +7,7 @@
 
 # Generated artifacts
 *.zip
+
+# Python virtual environment
+venv/
+.venv/
